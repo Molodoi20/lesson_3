@@ -1,0 +1,51 @@
+.menu {
+	color: yellowgreen;
+}
+/*.menu li {
+	color: aqua;
+}*/
+.menu + p {
+	color: royalblue;
+}
+.menu > ol ul {
+	color: brown;
+}
+#section {
+	color: blue;
+}
+.list > li a {
+	color: maroon;
+	text-decoration: none;
+}
+
+.miracle {
+	color: red;
+}
+.miracle h1 {
+	color: black;
+}
+
+.text.education {
+	color: olivedrab;
+}
+.education.paragraph {
+	color: darkorange;
+}
+.paragraph {
+	color: gray;
+}
+.paragraph span {
+	color: gold;
+}
+.next {
+	color: darkgoldenrod;
+}
+.next a {
+	color: darkgreen;
+}
+a {
+	color: chartreuse;
+}
+footer {
+	color: green;
+}
